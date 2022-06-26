@@ -23,7 +23,7 @@ public class OptionalTests {
      * .ifPresent()
      * .ifPresentOrElse()
      */
-    
+
     @Test
     public void testOptionals(){
         MockProducts.insertElementsInRepository();
