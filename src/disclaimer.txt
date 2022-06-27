@@ -3,3 +3,8 @@ Watched videos on amigoscode yt channel
 1 - https://www.youtube.com/watch?v=VRpHdSFWGPs&t=3058s - Java Functional Programming | Full Course
 2 - https://www.youtube.com/watch?v=f5j1TaJlc0w - Functional Programming with Java Streams API
 3 - https://www.youtube.com/watch?v=1xCxoOuDZuU&pp=ugMICgJwdBABGAE%3D - Java Optionals | Crash Course
+4 - https://www.youtube.com/watch?v=Geq60OVyBPg&t=1s | Software Testing Tutorial - Learn Unit Testing and Integration Testing
+
+FREECODECAMP
+
+1 - https://www.youtube.com/watch?v=flpmSXVTqBI | Java Testing - JUnit 5 Crash Course
